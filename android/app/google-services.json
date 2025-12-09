@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "84611586626",
+    "project_id": "retech-84e73",
+    "storage_bucket": "retech-84e73.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84611586626:android:683af84984b69820cfebdb",
+        "android_client_info": {
+          "package_name": "com.example.mbap_part2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPeCHn9Y5NIqcvj81ET7OFvEMu0TjpuW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
